@@ -7,49 +7,36 @@
 
 ## Algorithm:
 ### Step1
-</br>
 
 #### Import necessary libraries: OpenCV, NumPy, and Matplotlib.Read an image, convert it to RGB format, define an 11x11 averaging kernel, and apply 2D convolution filtering.Display the original and filtered images side by side using Matplotlib.
-</br> 
 
 ### Step2
-</br>
 
 #### Define a weighted averaging kernel (kernel2) and apply 2D convolution filtering to the RGB image (image2).Display the resulting filtered image (image4) titled 'Weighted Averaging Filtered' using Matplotlib's imshow function.
 
-</br> 
-
 ### Step3
-</br>
 
 #### Apply Gaussian blur with a kernel size of 11x11 and standard deviation of 0 to the RGB image (image2).Display the resulting Gaussian-blurred image (gaussian_blur) titled 'Gaussian Blurring Filtered' using Matplotlib's imshow function.
-</br> 
 
 ### Step4
-</br>
 
 #### Apply median blur with a kernel size of 11x11 to the RGB image (image2).Display the resulting median-blurred image (median) titled 'Median Blurring Filtered' using Matplotlib's imshow function.
 
-</br> 
 
 ### Step5
-</br>
 
 #### Define a Laplacian kernel (kernel3) and perform 2D convolution filtering on the RGB image (image2).Display the resulting filtered image (image5) titled 'Laplacian Kernel' using Matplotlib's imshow function.
 
-</br> 
 
 
 ### Step6:
-</br>
 
 #### Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplacian function.Display the resulting image (new_image) titled 'Laplacian Operator' using Matplotlib's imshow function.
 
-</br>
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   :  Sri Varshan P
+### Register Number: 212222240104
 </br>
 
 ### 1. Smoothing Filters
