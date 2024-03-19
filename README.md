@@ -147,28 +147,36 @@ plt.title('Laplacian Operator')
 #### (i) Using Averaging Filter
 </br>
 </br>
+
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/a0532fac-7da5-4b67-812e-bc8d718da502)
+
 </br>
 </br>
 
 #### (ii) Using Weighted Averaging Filter
 </br>
-</br>
+</br
+  
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/e8fc6b09-1e0c-4345-b17a-ef1a98710ef3)
+
 </br>
 </br>
 
 #### (iii) Using Gaussian Filter
 </br>
 </br>
+
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/1a06f411-20b1-4cf5-a92e-f47871d0eefc)
+
 </br>
 </br>
 
 #### (iv) Using Median Filter
 </br>
 </br>
+
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/f866756d-9969-48ac-82f6-6b51b00019ad)
+
 </br>
 </br>
 
@@ -178,14 +186,18 @@ plt.title('Laplacian Operator')
 #### (i) Using Laplacian Kernal
 </br>
 </br>
+
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/d33e59b0-471c-4f25-ba0e-e0c6b4e2c6ed)
+
 </br>
 </br>
 
 #### (ii) Using Laplacian Operator
 </br>
 </br>
+
 ![image](https://github.com/PSriVarshan/Implementation-of-filter/assets/114944059/b3eef065-0ed3-429b-8ed4-03fd5e23d886)
+
 </br>
 </br>
 
